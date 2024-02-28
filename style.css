@@ -1,0 +1,19 @@
+body{
+    background-color: lightskyblue;
+}
+h1{
+    background-color:rgb(204, 50, 140);
+    color: white;
+}
+
+th{background-color:blue ;
+    color: chartreuse;
+
+}
+td{
+    background-color:cadetblue ;
+    color: azure;
+}
+i{
+    color: crimson;
+}
